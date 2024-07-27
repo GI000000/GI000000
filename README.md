@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GI000000
-- 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Gi0Chkh, Front-End Web Developer!
+- 👀 I’m interested in SQL;
+- 🌱 I’m currently learning ReactJS, NextJS;
 - 📫 How to reach me: giogio0570@gmail.com
 
 <!---
